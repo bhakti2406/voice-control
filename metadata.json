@@ -1,0 +1,7 @@
+{
+  "name": "Voice-Enabled RAG Pipeline",
+  "description": "Voice-enabled Retrieval-Augmented Generation (RAG) system with speech-to-text, multi-strategy chunking, server-side vector retrieval, extractive & LLM generation, guardrails, and latency analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
