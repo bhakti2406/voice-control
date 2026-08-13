@@ -817,16 +817,16 @@ Potential improvements include:
 
 ---
 
-# 👥 Team
+# 👥 Team Solar
 
 **HH Goa 2026 — Task 2**
 
-Add team members and roles here:
+Add team members here:
 
 ```text
-- Name — Role
-- Name — Role
-- Name — Role
+Devanshi Modi
+Diya Pagi
+Bhakti Sudhir
 ```
 
 ---
